@@ -1,0 +1,114 @@
+{
+  "filas": 504,
+  "fecha_min": "2024-10-01",
+  "fecha_max": "2026-10-27",
+  "celdas_nan_en_columnas_con_dato": {
+    "trm": 0,
+    "ibr_on": 0,
+    "ibr_1m": 0,
+    "ibr_3m": 0,
+    "ibr_6m": 0,
+    "ibr_12m": 0,
+    "sofr_on": 0,
+    "sofr_avg30": 0,
+    "sofr_avg90": 0,
+    "sofr_avg180": 0,
+    "f_1m": 0,
+    "puntos_1m": 0,
+    "costo_anual_1m": 0,
+    "carry_1m": 0,
+    "f_3m": 0,
+    "puntos_3m": 0,
+    "costo_anual_3m": 0,
+    "carry_3m": 0,
+    "f_6m": 0,
+    "puntos_6m": 0,
+    "costo_anual_6m": 0,
+    "carry_6m": 0,
+    "carry_on": 0,
+    "vol21": 0,
+    "vol63": 0
+  },
+  "ceros": {},
+  "rangos": {
+    "trm": [
+      3048.12,
+      4478.21
+    ],
+    "ibr_on": [
+      8.552,
+      11.42
+    ],
+    "ibr_1m": [
+      8.602,
+      11.583
+    ],
+    "ibr_3m": [
+      8.614,
+      11.833
+    ],
+    "ibr_6m": [
+      8.451,
+      12.135
+    ],
+    "ibr_12m": [
+      7.991,
+      12.81
+    ],
+    "sofr_on": [
+      3.5,
+      5.05
+    ],
+    "sofr_avg30": [
+      3.58967,
+      5.15134
+    ],
+    "sofr_avg90": [
+      3.62518,
+      5.30501
+    ],
+    "sofr_avg180": [
+      3.65767,
+      5.36493
+    ],
+    "costo_anual_1m": [
+      4.158514414580594,
+      7.93828780420851
+    ],
+    "costo_anual_3m": [
+      3.8006181311899923,
+      8.133878591387056
+    ],
+    "costo_anual_6m": [
+      3.2152177645566216,
+      8.318592961024418
+    ],
+    "carry_3m": [
+      3.849000000000001,
+      8.2076
+    ],
+    "vol21": [
+      6.170176363023747,
+      19.246732028295398
+    ],
+    "vol63": [
+      8.879535118622735,
+      15.537189536189445
+    ]
+  },
+  "trm_saltos_gt10pct": [],
+  "trm_max_abs_ret_diario_pct": 3.4871586267345434,
+  "trm_n_observaciones": 568,
+  "trm_primera": "2024-06-01",
+  "trm_contraste_banrep": {
+    "fechas_comparadas": 879,
+    "max_dif_abs": 0.0,
+    "n_dif_gt_0.005": 0
+  },
+  "fechas_ibr_sin_fila": [],
+  "titulares": {
+    "costo_anual_3m_pct": 7.895116165925664,
+    "carry_3m_pp": 7.96944,
+    "vol21_pct": 11.826691344201386
+  }
+}
